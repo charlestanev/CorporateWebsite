@@ -153,7 +153,7 @@ p {
 
 /* Showcase */
 #showcase {
-  background: #333 url('../img/showcase.jpg') no-repeat center center/cover;
+  background: #333 url('../img/showcase.webp') no-repeat center center/cover;
   height: 100vh;
   color: #fff;
 }
@@ -205,7 +205,7 @@ p {
 }
 
 #who .who-img {
-  background: url(../img/people.jpg) no-repeat center center/cover;
+  background: url(../img/people.webp) no-repeat center center/cover;
 }
 
 /* section Clients */
